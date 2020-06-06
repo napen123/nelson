@@ -1,2 +1,6 @@
-# nelson
-Works of Edward Nelson.
+# The Collected Works of Edward Nelson
+
+| Title | Date |
+|:------|:----:|
+
+(Inspired by the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
