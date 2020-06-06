@@ -56,7 +56,7 @@ The latter two chapters remain unpublished.
 |Logic and ZFC|
 |The Syntax of IST|
 
-## Copying
-All papers and books in this repository come from Edward Nelson's Princeton website where he made them freely available.
+## License
+All works within this repository come from Edward Nelson's Princeton website where they were made freely available by him.
 
-This repository is based on the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
+This repository is based on the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).
