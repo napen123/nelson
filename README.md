@@ -1,6 +1,7 @@
 # The Collected Works of Edward Nelson
 Please inform of any inaccuracies or missing works.
 
+## Papers
 | Title | Date | Additional |
 |:------|:----:|:----------:|
 |[Ezekiel's Wheel](works/ezek.txt)| | |
@@ -22,5 +23,32 @@ Please inform of any inaccuracies or missing works.
 |[Il potere del paradosso](works/paradosso.ppt)|2010| |
 |[Review of Stochastic Mechanics](works/sm.pdf)|2011|[Paper](http://dx.doi.org/10.1088/1742-6596/361/1/012011)|
 |[Reflections on Retirement](works/retirement.pdf)|2013| |
+
+## Books
+| Title | Date | Additional |
+|:------|:----:|:----------:|
+|[Tensor Analysis](works/ta.pdf)|1967| |
+|[Topics in Dynamics I: Flows](works/flows.pdf)|1969| |
+|[Quantum Fluctuations](works/qf.pdf)|1985| |
+|[Predicative Arithmetic](works/pa.pdf)|1986| |
+|[Radically Elementary Probability Theory](works/rept.pdf)|1987|[French](works/rept_fr.pdf), [Russian](works/rept_ru.pdf)|
+|[Dynamical Theories of Brownian Motion (Second Edition)](works/bmotion.pdf)|2001| |
+
+Thierry Delbecque was responsible for the French translation and revision of "Radically Elementary Probability Theory".
+
+A. A. Ruban and S. S. Kutateladze were responsible for the Russian translation of "Radically Elementary Probability Theory".
+
+Jan Suzuki was the typesetter for "Dynamical Theories of Brownian Motion".
+
+### Unfinished Book on Nonstandard Analysis
+"This was intended to be the beginning of a book on external sets and functions, but only the first three chapters were written. Some of them are temporarily withdrawn for revision." - Edward Nelson
+
+The latter two chapters were never republished.
+
+| Chapter |
+|:--------|
+|[Internal Set Theory](works/1.pdf)|
+|Logic and ZFC|
+|The Syntax of IST|
 
 (Inspired by the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
