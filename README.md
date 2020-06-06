@@ -14,5 +14,7 @@ Please inform of any inaccuracies or missing works.
 |[Review of Dennis Hesseling's "Gnomes in the Fog: The Reception of Brouwer's Intuitionism in the 1920s"](works/fog.pdf)|2003|
 |[Completed versus Incomplete Infinityin Arithmetic](works/e.pdf)|2005|
 |[The Mystery of Stochastic Mechanics](works/talk.pdf)| |
+|[L'infinito nell'aritmetica](works/rimini.pdf)|2006|
+|[Hilbert's Mistake](works/hm.pdf)|2007|
 
 (Inspired by the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
