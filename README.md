@@ -1,5 +1,5 @@
 # The Collected Works of Edward Nelson
-Please inform of any inaccuracies or missing works.
+Please inform us of any inaccuracies or missing works.
 
 ## Papers
 | Title | Date | Additional |
@@ -27,6 +27,7 @@ Please inform of any inaccuracies or missing works.
 ## Books
 | Title | Date | Additional |
 |:------|:----:|:----------:|
+|Dynamical Theories of Brownian Motion (First Edition)|1967| 2nd ed. available below. |
 |[Tensor Analysis](works/ta.pdf)|1967| |
 |[Topics in Dynamics I: Flows](works/flows.pdf)|1969| |
 |[Quantum Fluctuations](works/qf.pdf)|1985| |
@@ -43,7 +44,7 @@ Jan Suzuki was the typesetter for "Dynamical Theories of Brownian Motion".
 ### Unfinished Book on Nonstandard Analysis
 "This was intended to be the beginning of a book on external sets and functions, but only the first three chapters were written. Some of them are temporarily withdrawn for revision." - Edward Nelson
 
-The latter two chapters were never republished.
+The latter two chapters remain unpublished.
 
 | Chapter |
 |:--------|
@@ -51,4 +52,7 @@ The latter two chapters were never republished.
 |Logic and ZFC|
 |The Syntax of IST|
 
-(Inspired by the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
+## Copying
+All papers and books in this repository come from Edward Nelson's Princeton website where he made them freely available.
+
+This repository is based on the repository collecting [Per Martin-Löf's works](https://github.com/michaelt/martin-lof).)
