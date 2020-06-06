@@ -1,11 +1,15 @@
 # The Collected Works of Edward Nelson
 Please inform us of any inaccuracies or missing works.
 
+[Publications of Edward Nelson](works/nelsonbib.pdf)
+[Curriculum Vitae](works/cv.pdf)
+
 ## Papers
 | Title | Date | Additional |
 |:------|:----:|:----------:|
 |[Ezekiel's Wheel](works/ezek.txt)| | |
 |[Internal Set Theory](works/ist.pdf)|1977| |
+|[Space-Time-Chance](works/cti.txt)|1988|[HTML](works/cti.html)|
 |[Ramified Recursion and Intuitionism](works/ramrec.pdf)|1995| |
 |[Confessions of an Apostate Mathematician](works/rome.pdf)|1995| |
 |[Understanding Intuitionism](works/int.pdf)|1997| |
