@@ -2,6 +2,7 @@
 Please inform us of any inaccuracies or missing works.
 
 [Publications of Edward Nelson](works/nelsonbib.pdf)
+
 [Curriculum Vitae](works/cv.pdf)
 
 ## Papers
