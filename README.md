@@ -28,6 +28,7 @@ Please inform us of any inaccuracies or missing works.
 |[Il potere del paradosso](works/paradosso.ppt)|2010| |
 |[Review of Stochastic Mechanics](works/sm.pdf)|2011|[Paper](http://dx.doi.org/10.1088/1742-6596/361/1/012011)|
 |[Reflections on Retirement](works/retirement.pdf)|2013| |
+|[Elements](works/elements.pdf)|2015| |
 
 ## Books
 | Title | Date | Additional |
